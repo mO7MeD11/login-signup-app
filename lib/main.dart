@@ -11,6 +11,6 @@ class Home extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(home: SignupView());
+    return MaterialApp(home: SplashView());
   }
 }
